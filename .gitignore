@@ -1,0 +1,15 @@
+# Visual Studio cache
+.vs/
+*.ipch
+*.VC.db
+*.opendb
+
+# Build artifacts
+/build/
+/bin/
+/obj/
+/out/
+*.pdb
+*.lib
+*.exe
+*.dll

@@ -1,0 +1,18 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OpenGL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  chat.cpp
+C:\opengl\OpenGL\OpenGL\chat.cpp(605,77): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\opengl\OpenGL\OpenGL\chat.cpp(613,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\opengl\OpenGL\OpenGL\chat.cpp(614,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\opengl\OpenGL\OpenGL\chat.cpp(617,80): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\opengl\OpenGL\OpenGL\chat.cpp(620,75): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\opengl\OpenGL\OpenGL\chat.cpp(623,79): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\opengl\OpenGL\OpenGL\chat.cpp(626,81): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\opengl\OpenGL\OpenGL\chat.cpp(629,80): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\opengl\OpenGL\OpenGL\chat.cpp(688,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\opengl\OpenGL\OpenGL\chat.cpp(691,11): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\opengl\OpenGL\OpenGL\chat.cpp(692,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\opengl\OpenGL\OpenGL\chat.cpp(693,82): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\opengl\OpenGL\OpenGL\chat.cpp(693,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\opengl\OpenGL\OpenGL\chat.cpp(694,85): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\opengl\OpenGL\OpenGL\chat.cpp(694,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  OpenGL.vcxproj -> C:\opengl\OpenGL\x64\Debug\Chat.exe
